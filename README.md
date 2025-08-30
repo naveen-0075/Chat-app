@@ -28,6 +28,6 @@ A simple real-time chat application built with **Node.js, Express, MongoDB, and 
 ### Login
 ![Login](./screenshots/login.png)
 
-### profileedit
+### Profile Edit
 ![Profile Edit](./screenshots/profileedit.png)
 
