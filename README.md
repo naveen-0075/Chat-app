@@ -31,5 +31,3 @@ A simple real-time chat application built with **Node.js, Express, MongoDB, and 
 ### profileedit
 ![Profile Edit](./screenshots/profileedit.png)
 
-### Mobile View
-![Mobile View](./screenshots/mobile-view.png)
